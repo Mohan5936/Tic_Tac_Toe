@@ -1,18 +1,20 @@
-Tic Tac Toe Game - README
-📌 Project Overview
-This is a simple Tic Tac Toe game built using HTML, CSS, and JavaScript. The game allows two players to play alternately, marking X and O on a 3x3 grid. The objective is to get three of your marks in a row (horizontally, vertically, or diagonally) before your opponent does.
+**Tic Tac Toe Game - README**
+**📌 Project Overview**
+This simple Tic Tac Toe game is built using HTML, CSS, and JavaScript. The game allows two players to play alternately, marking X and O on a 3x3 grid. The objective is to get three marks in a row (horizontally, vertically, or diagonally) before your opponent does.
 
-🚀 Features
+**🚀 Features**
 🎮 Two-player mode
 🎨 Responsive and visually appealing design
 🔄 Reset button to start a new game
 ✅ Displays winner or tie message
 🖥️ Works on both desktop and mobile devices
-🛠️ Technologies Used
+
+**🛠️ Technologies Used**
 HTML - Structure of the game
 CSS - Styling and layout
 JavaScript - Game logic and interactivity
-📂 Project Structure
+
+**📂 Project Structure**
 bash
 Copy
 Edit
@@ -29,16 +31,16 @@ Edit
 git clone https://github.com/yourusername/tic-tac-toe.git
 Open index.html in your browser.
 Start playing!
-🕹️ How to Play
+
+**🕹️ How to Play**
 The game starts with Player X.
 Click on an empty cell to place your mark (X or O).
 Players take turns until one gets three in a row or the grid is full.
 A message will announce the winner or a draw if there is no winner.
 Click Reset to start a new game.
-📸 Screenshots
-(Add screenshots of your game here if available.)
 
-🎯 Future Enhancements
+
+**🎯 Future Enhancements**
 🎵 Add sound effects
 🎨 Improve UI/UX with animations
 🤖 Single-player mode with AI opponent
